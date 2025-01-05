@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maddukuri Lakshmi Santoshi</h1>
 <h3 align="center">"Engineering student passionate about solving problems, building full-stack applications, and exploring data to uncover insights."</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santhu1712" alt="santhu1712" /></a> </p>
-
 - 🌱 I’m currently learning **Frontend,Backend,Data Science ,Data Structures & Algorithms**
 
 - 👯 I’m looking to collaborate on **FullStack Development,Data Science Projects**
